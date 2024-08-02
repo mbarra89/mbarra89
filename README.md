@@ -1,0 +1,5 @@
+- 👋 Hola, soy Miguel Barra, Ingenierio en Computación e Informática
+- 👀 Estoy interesado en la música
+- 🌱 Actualmente, estoy estudiando desarrollo de aplicaciones móviles con flutter
+- 💞️ Estoy buscando colaborar en proyectos de innovación
+- 📫 mbarra.3690@gmail.com
